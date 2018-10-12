@@ -1,7 +1,7 @@
 # word_ban_bot
 
 ## what?
-word_ban_bot is a super simple bot that keeps track of any desired words' usage in a Telegram group, and scolds those who use those words.
+word_ban_bot is a super simple bot that keeps track of any desired words' usage in a Telegram group, and scolds people who use those words.
 
 ## why?
 that is a great question!
